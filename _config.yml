@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Missing Values project
-description: A template website
+title: Missing Values project title
+description: Short description of the project
 show_downloads: True
 navigation:
   - title: Home
