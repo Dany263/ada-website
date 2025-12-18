@@ -1,9 +1,7 @@
-theme: just-the-docs
-
+theme: jekyll-theme-minimal
 title: Missing Values project
 description: Short description of the project
 show_downloads: True
-
 navigation:
   - title: Home
     url : index
