@@ -4,6 +4,6 @@ description: Short description of the project
 show_downloads: True
 navigation:
   - title: Home
-    url : index.md
+    url : /index
   - title: Test
-    url : test.md
+    url : /test
