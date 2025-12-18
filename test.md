@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Rolling Metrics
 ---
 
 # Rolling Metrics
